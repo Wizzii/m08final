@@ -1,4 +1,4 @@
-# m08final
+# Basic Pizza Ordering System
 Final for M08
 
 RIP hopes and dreams of making images work.
